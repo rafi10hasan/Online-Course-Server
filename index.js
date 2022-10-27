@@ -27,5 +27,5 @@ app.get("/course-details/:id", (req, res) => {
 });
 
 app.listen(port, () => {
-  console.log("Dragon News Server running on port is runnings", port);
+  console.log("Dragon News Server running on port is running", port);
 });
