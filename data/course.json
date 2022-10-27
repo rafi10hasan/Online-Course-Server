@@ -1,0 +1,101 @@
+[
+
+{
+    
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6a",
+    "courses_id": "01",
+    "name":"Fronted web Developement",
+    "img":"https://miro.medium.com/max/748/0*dl6DnA8iMAYSVt2O.png",
+    "description":"Make UIs and websites beautiful, functional, and fast. Cover all the topics that expensive bootcamps teach (and more). Get the specialized skills and portfolio needed to start your career as a Front-End Devloper.Includes HTML, CSS, JavaScript, Web Apps, React, UX design, and more.Build portfolio-ready projects, websites, and apps on your own Finish in 4-8 months with a certificate of completion Not just videos  Write code live in our interactive platform.so,if you interested in this course.you can enroll now",
+
+    "instructor":"Jhankar Mahbub",
+    "price":"50$",
+    "duration":"3-4 months",
+    "assignment":"8",
+    "videoes":"180"
+
+},
+
+{
+    
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6b",
+    "courses_id": "02",
+    "name":"full stack web Development",
+    "img":"https://www.spaceo.ca/wp-content/uploads/2021/05/what-is-full-stack-development.jpg",
+    "description":"Learn both front-end and back-end development. Cover all the topics that expensive bootcamps teach (and more). Get the well-rounded skills and portfolio needed to start your career as a Full-Stack Software Engineer.Includes JavaScript, Node.JS, SQL, Express.JS, React, TDD, and more...Build portfolio-ready projects, websites, and apps on your own Finish in 4-8 months with a certificate of completion Not just videos Write code live in our interactive platform",
+
+    "instructor":"Asifur Rahman",
+    "price":"150$",
+    "duration":"5-6 months",
+    "assignment":"16",
+    "videoes":"600"
+
+},
+
+{
+    
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6c",
+    "courses_id": "03",
+    "name":"React js Development",
+    "img":"https://process.fs.teachablecdn.com/ADNupMnWyR7kCWRvm76Laz/resize=width:705/https://www.filepicker.io/api/file/fGWjtyQtG4JE7UXgaPAN",
+    "description":"Learn how to create React development projects Assemble incredibly reusable React components See the step-by-step process of designing and assembling an advanced project Learn how to create React Components, React Forms Manage a project using a package-based architecture Create portfolio of real- world projects on one of the most in-demand web development technologies Learn and understand what is React and how it works Build powerful, fast, user-friendly and reactive web apps",
+
+    "instructor":"Jhankar Mahbub",
+    "price":"35$",
+    "duration":"2 months",
+    "assignment":"10",
+    "videoes":"100"
+
+},
+
+{
+    
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6d",
+    "courses_id": "04",
+    "name":"Node js Development",
+    "img":"https://www.filepicker.io/api/file/nlMKa4JeSBysXoj7pa90",
+
+    "description":"Grasp how NodeJS works under the hood Understand the Javascript and technical concepts behind NodeJS Structure a Node application in modules Understand and use the Event Emitter Understand Buffers, Streams, and Pipes Build a Web Server in Node and understand how it really works Use npm and manage node packages Build a web application and API more easily using Express",
+
+    "instructor":"partho shaha",
+    "price":"45$",
+    "duration":"2-3 months",
+    "assignment":"8",
+    "videoes":"120"
+
+},
+
+{
+    
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6e",
+    "courses_id": "05",
+    "name":"python Django",
+    "img":"https://www.certybox.com/wp-content/webpc-passthru.php?src=https://www.certybox.com/wp-content/uploads/2021/02/django_python_certybox.jpeg&nocache=1",
+
+    "description":"Create a fully functional web site using the Full-Stack with Django.Learn how to use HTML to create website content Use CSS to create beautifully styled sites Learn how to take advantage of Bootstrap to quickly style sites Use Javascript to interact with sites on the Front-End Learn how to use jQuery to quickly work with the DOM",
+
+    "instructor":"Ashfaqur Rahman",
+    "price":"60$",
+    "duration":"3-4 months",
+    "assignment":"10",
+    "videoes":"160"
+
+},
+
+{
+    
+    "_id": "0282e0e58a5c404fbd15261f11c2ab6f",
+    "courses_id": "06",
+    "name":"React Native app Development",
+    "img":"https://www.freecoursesonline.me/wp-content/uploads/2020/06/part-2.jpg",
+    "description":"Create real-world native apps using React Native Make truly reusable components that look great Understand the terminology and concepts of Redux Prototype and deploy your own applications to the Apple and Google Play Stores Get up to speed with React design principles and methodologies Discover mobile design patterns used by experienced engineers",
+
+    "instructor":"Jobayer hasan",
+    "price":"70$",
+    "duration":"4-5 months",
+    "assignment":"15",
+    "videoes":"450"
+
+}
+
+]
